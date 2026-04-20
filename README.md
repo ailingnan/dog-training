@@ -2,7 +2,7 @@
 
 ## 🔗 Video Link
 
-(Insert repository link here)
+https://drive.google.com/file/d/1wSiJVdwwQkaRtWLouT6EmJIwSf4wOCgX/view?usp=sharing
 
 ---
 
