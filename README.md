@@ -192,4 +192,3 @@ However, diffusion models still struggle with:
 
 > This highlights the trade-off between controllability and generative limitations in diffusion models.
 
----
