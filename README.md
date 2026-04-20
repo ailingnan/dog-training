@@ -27,7 +27,17 @@ The goal is to study:
 
 ---
 
-## Prompt Design
+## 🔢 Dataset
+
+No dataset is directly used for training in this project.
+
+We leverage a pre-trained diffusion model (Stable Diffusion), which has been trained on large-scale image-text datasets.
+
+Suggested datasets such as Oxford-IIIT Pet and AFHQ are used as conceptual references for evaluating realism and diversity of generated animal images.
+
+---
+
+## 💬 Prompt Design
 
 ### Baseline Prompt
 
