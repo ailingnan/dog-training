@@ -1,5 +1,11 @@
 # 🐶 Dog Training Visualization with Controlled Diffusion Models
 
+## 🔗 Video Link
+
+(Insert repository link here)
+
+---
+
 ## 📌 Overview
 
 This project builds a **controlled image generation system** for animal care and training scenarios using diffusion models.
@@ -187,6 +193,3 @@ However, diffusion models still struggle with:
 > This highlights the trade-off between controllability and generative limitations in diffusion models.
 
 ---
-## 🔗 GitHub
-
-(Insert repository link here)
