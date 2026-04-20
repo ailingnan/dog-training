@@ -102,6 +102,39 @@ Statistical Analysis
 
 ---
 
+## 🛠️ Technologies Used
+
+* Python
+* PyTorch
+* Stable Diffusion (via Diffusers)
+* Pandas (evaluation)
+* PIL (image processing)
+
+---
+
+## 🎛️ Control Mechanisms
+
+### ✅ 1. Structured Prompts
+
+Used to enforce:
+
+* Breed consistency
+* Color consistency
+* Scene control
+
+### ✅ 2. Negative Prompts
+
+Used to suppress generation errors:
+
+```
+blurry, deformed, extra limbs, bad anatomy, multiple dogs
+```
+
+👉 Helps reduce artifacts and improve visual quality.
+
+
+---
+
 ## 📊 Evaluation Methodology
 
 We designed a **human-interpretable scoring system** with two levels:
@@ -191,4 +224,3 @@ However, diffusion models still struggle with:
 * Preserving identity over multiple images
 
 > This highlights the trade-off between controllability and generative limitations in diffusion models.
-
