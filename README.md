@@ -1,4 +1,4 @@
-# 🐶 AI Animal Care Visualization with Controlled Diffusion Models
+# 🐶 Dog Training Visualization with Controlled Diffusion Models
 
 ## 📌 Overview
 
